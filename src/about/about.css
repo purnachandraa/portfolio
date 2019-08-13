@@ -1,0 +1,28 @@
+#root{
+  background-color: rgb(250, 252, 252) !important;
+}
+
+.aboutt{
+   
+   
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+   
+    color: black;
+  }
+  .abt{
+    color:orangered;
+    font-family: inherit;
+  }
+  .abtimg{
+    margin-top: 40px;
+  }
+  
+
+
+@media (max-width: 767px){
+.Front{
+    width: 100%;
+}
+}
